@@ -1,0 +1,8 @@
+{
+  "Port": 8000, // Defaults to 8000 if omitted
+  "DbHost" :"", // Defaults to localhost if omitted or not set
+  "DbPort" :"", // Defaults to 3306 if omitted or not set
+  "DbUser": "", // Required
+  "DbPass": "" // Required
+  "DbName": "", // Required
+}

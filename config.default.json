@@ -1,0 +1,9 @@
+{
+  "UploadDir": "public",
+  "Host": "localhost",
+  "Port": 8000,
+  "DbHost": "localhost",
+  "DbUser": "root",
+  "DbPass": "root",
+  "DbName": "gocleancode"
+}
