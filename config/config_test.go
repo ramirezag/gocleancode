@@ -21,7 +21,7 @@ func TestFillFromEnvironmentVariables(t *testing.T) {
 		t.Errorf("Expected no error, but got %s instead", err)
 		return
 	}
-	appConfig, err := config.New()
+	appConfig := config.New()
 	if err != nil {
 		t.Errorf("Expected no error, but got %s instead", err)
 		return

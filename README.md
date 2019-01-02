@@ -61,6 +61,10 @@ This approach is useful when you want to run the app in commandline and would no
 
 Execute `go run main.go`
 
+## Run the tests
+
+Execute `go test -cover ./...`
+
 ## Development and Unit Test Guidelines
 
 - Read [How to Write Go Code](https://golang.org/doc/code.html).
